@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor iOS apaixonado por arquiteturas escaláveis e interfaces fluidas. Nos últimos **2 anos**, atuei no desenvolvimento do **Globoplay**, lidando com desafios de alta complexidade em um dos maiores aplicativos de streaming do Brasil.
+Sou um Desenvolvedor iOS apaixonado por arquiteturas escaláveis e interfaces fluidas. Nos últimos **2 anos**, atuei como desenvolvedor no **Globoplay**, lidando com desafios de alta complexidade em um dos maiores aplicativos de streaming do Brasil.
 
 Minha experiência é focada em manter bases de código grandes e modulares, garantindo performance e qualidade.
 
