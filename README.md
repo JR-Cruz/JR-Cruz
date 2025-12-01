@@ -64,7 +64,7 @@ I am an iOS Developer passionate about scalable architectures and fluid interfac
 My experience focuses on maintaining large, modular codebases, ensuring performance and quality.
 
 - 💼 **Experience:** Former iOS Development Intern at **Globoplay** (2 years).
-- 🏗 **Specialty:** **VIPER** Architecture, MVVM-C, and reactive components with **SwiftUI**.
+- 🏗 **Specialty:** **VIPER** Architecture, MVVM, and reactive components with **SwiftUI**.
 - 🔭 **Current Focus:** Enhancing skills in Software Engineering and Design Systems.
 
 ---
