@@ -1,4 +1,4 @@
-# Hello, I'm José Cruz! 
+# Hello, I'm José Cruz!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=iOS%20Developer&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Swift%20•%20SwiftUI%20•%20VIPER&descAlignY=55&descSize=25" width="100%"/>
@@ -54,16 +54,50 @@ Minha experiência é focada em manter bases de código grandes e modulares, gar
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/JR-Cruz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JR-Cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  </a>
-  <a href="https://github.com/JR-Cruz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JR-Cruz&layout=compact&theme=dracula&hide=html,css"/>
-  </a>
+## English Version
+
+### 🚀 About Me
+
+I am an iOS Developer passionate about scalable architectures and fluid interfaces. For the past **2 years**, I worked on the development of **Globoplay**, tackling high-complexity challenges in one of Brazil's largest streaming apps.
+
+My experience focuses on maintaining large, modular codebases, ensuring performance and quality.
+
+- 💼 **Experience:** Former iOS Development Intern at **Globoplay** (2 years).
+- 🏗 **Specialty:** **VIPER** Architecture, MVVM-C, and reactive components with **SwiftUI**.
+- 🔭 **Current Focus:** Enhancing skills in Software Engineering and Design Systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Core Mobile**
+<div align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
 </div>
+
+**Architecture & Practices**
+<div align="left">
+  <img src="https://img.shields.io/badge/Architecture-VIPER-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-CocoaPods-AF0916?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-SPM-orange?style=for-the-badge" />
+</div>
+
+---
+
+### 💼 Professional Experience
+
+#### 📺 Globoplay (2 Years)
+> Working on a large-scale codebase, impacting millions of users.
+
+* Feature development and maintenance using **Swift** and **Objective-C**.
+* Rigorous implementation of **VIPER** architecture ensuring modularization and testability.
+* Migration and creation of modern interfaces using **SwiftUI**.
+* Collaboration in agile teams (Scrum), Code Reviews, and CI/CD.
 
 ---
 
