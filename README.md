@@ -102,9 +102,8 @@ My experience focuses on maintaining large, modular codebases, ensuring performa
 * Collaboration in agile teams (Scrum), Code Reviews, and CI/CD.
 
 ---
-
 <div align="center">
-  <img src="https://github.com/JR-Cruz/JR-Cruz/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JR-Cruz&theme=dracula" />
 </div>
 
 ---
