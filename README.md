@@ -47,9 +47,11 @@ Minha experiência é focada em manter bases de código grandes e modulares, gar
 #### 📺 Globoplay (2 Anos)
 > Atuação em base de código de larga escala, impactando milhões de usuários.
 
-* Desenvolvimento e manutenção de features utilizando **Swift** e **Objective-C**.
+* Desenvolvimento e manutenção de features utilizando **Swift**.
+* Migração de **XIB's** para **ViewCode**
 * Implementação rigorosa da arquitetura **VIPER** para garantir modularização e testabilidade.
 * Migração e criação de interfaces modernas utilizando **SwiftUI**.
+* Criação e manutenção de ***testes unitários***.
 * Colaboração em times ágeis (Scrum), Code Reviews e CI/CD.
 
 ---
@@ -94,10 +96,16 @@ My experience focuses on maintaining large, modular codebases, ensuring performa
 #### 📺 Globoplay (2 Years)
 > Working on a large-scale codebase, impacting millions of users.
 
-* Feature development and maintenance using **Swift** and **Objective-C**.
+* Feature development and maintenance using **Swift**.
 * Rigorous implementation of **VIPER** architecture ensuring modularization and testability.
 * Migration and creation of modern interfaces using **SwiftUI**.
 * Collaboration in agile teams (Scrum), Code Reviews, and CI/CD.
+
+---
+
+<div align="center">
+  <img src="https://github.com/JR-Cruz/JR-Cruz/raw/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
