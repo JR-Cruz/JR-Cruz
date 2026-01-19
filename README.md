@@ -49,7 +49,6 @@ My focus is on maintaining large, modular codebases, ensuring performance, and c
 
 Beyond code, I focus on team efficiency and modern workflows:
 * **Mentorship:** Experience supporting onboarding for new team members.
-* **AI Integration:** Proficient in Prompt Engineering to optimize development capability.
 * **Agile:** Strong background in Scrum/Kanban environments.
 
 ---
