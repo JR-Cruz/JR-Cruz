@@ -90,7 +90,7 @@ My focus is on maintaining large, modular codebases, ensuring performance, and d
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JR-Cruz&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JR-Cruz&theme=github_dark" />
 
 </div>
 
